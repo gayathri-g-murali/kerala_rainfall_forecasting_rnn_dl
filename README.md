@@ -4,8 +4,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-2.12-red?style=flat-square&logo=keras&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-visualization-blue?style=flat-square&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red?style=flat-square&logo=streamlit&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-Geospatial-lightblue?style=flat-square&logo=leaflet&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1.5-lightblue?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blue?style=flat-square&logo=seaborn&logoColor=white)
 
 ---
 
